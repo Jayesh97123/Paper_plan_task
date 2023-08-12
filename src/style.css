@@ -85,6 +85,10 @@ nav .right .join {
     color: #ffffff;
 }
 
+nav .right .join:focus {
+    box-shadow: 5px 5px 5px rgb(225, 225, 225);
+}
+
 nav .right a {
     cursor: pointer;
 }
